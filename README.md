@@ -15,7 +15,7 @@ Second project created for JetBrains Academy Java Developer course - easy level 
 
 The user can buy 3 types of coffee, fill the machine supplies, take the cash out of the machine, list the remaining supplies or exit the app.
 
-Sample input and output:
+### Sample input and output:
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
